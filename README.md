@@ -8,11 +8,7 @@ To identify employees who are eligible to participate in a mentorship progrem, I
 ### Results:
 - There are 90,398 employees out of 300,024 who are eligible for retirement.
 - From the table retiring_titles we can see that most of the employees who are eligible for retirement are employees with senior on their job title.
-
-[Retiring_titles.csv](https://github.com/anushaghimire/Pewlett-Hackard-Analysis/files/6978734/Retiring_titles.csv)
-
--
-
+Manager<img width="267" alt="image" src="https://user-images.githubusercontent.com/85364095/129275062-4265b93f-da95-48f8-8470-bf139db0685c.png">
 
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 ### Summary:
